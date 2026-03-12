@@ -1,191 +1,367 @@
+
 # Sampada Donahalli Dinesh
 
-**MBA (STEM) Candidate @ University of Miami Herbert Business School**  
-**MSc Data Science | Systems Engineer (ex-Infosys, Vanguard client) | Co-Founder – GuddadaSiri Homestay**
+MBA (STEM) Candidate, University of Miami Herbert Business School
+Master of Science in Data Science
+Systems Engineer (Former Infosys – Vanguard Client)
+Co-Founder and Operations Manager, GuddadaSiri Homestay
 
-📍 Coral Gables, FL (originally from Karnataka, India)  
-📧 sxd1666@miami.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/sampada-dd-5384741b3) · [GitHub](https://github.com/SampadaDd)
-
----
-
-## 👋 About Me
-
-I’m an **MBA (STEM) candidate** at the University of Miami with a **Master’s in Data Science** and a **Bachelor’s in Electronics & Communication Engineering**.
-
-I love sitting at the intersection of:
-
-- 🧮 **Data & Analytics** – SQL, Python, R, Power BI, Excel  
-- 💼 **Business & Strategy** – MBA coursework in Business Analytics, Corporate Finance, Strategic Management, Marketing Analytics  
-- 🧠 **Product / Program Thinking** – cross-functional collaboration, requirements gathering, and execution  
-- 🌱 **Entrepreneurship** – co-founder and operations manager of *GuddadaSiri Homestay*, a boutique hospitality venture in Karnataka
-
-I’m especially interested in:
-
-- Data-driven decision-making for **hospitality, travel, financial services**, and **digital products**
-- How businesses can adopt **AI + analytics** to improve operations and customer experience
-- Blending **technical depth** with **clear, simple communication** for business stakeholders
+Location: Coral Gables, Florida, United States
+Email: [sxd1666@miami.edu](mailto:sxd1666@miami.edu)
+LinkedIn: [https://www.linkedin.com/in/sampada-dd-5384741b3](https://www.linkedin.com/in/sampada-dd-5384741b3)
+GitHub: [https://github.com/SampadaDd](https://github.com/SampadaDd)
 
 ---
 
-## 🎓 Education
+# Professional Summary
 
-**University of Miami Herbert Business School – MBA (STEM)**  
-*August 2025 – May 2027*  
-- Business Analytics, Corporate Finance, Strategic Management, Marketing Analytics,  
-  Data Visualization for Business, Product & Program Management, Consulting
+I am an MBA (STEM) candidate at the University of Miami with a Master’s degree in Data Science and professional experience in financial services technology and hospitality operations.
 
-**Manipal Academy of Higher Education – MSc Data Science**  
-*April 2023 – May 2025*  
-- SQL, Power BI, Python & R, Statistical Modelling, Hypothesis Testing, NLP
+My work focuses on combining analytics, artificial intelligence, and business strategy to support data-driven decision making.
 
-**JSS Academy of Technical Education, Bangalore – BEng Electronics & Communication**  
-*August 2017 – August 2021*  
+My interests lie at the intersection of:
 
----
+Artificial Intelligence and Machine Learning
+Data Science and Advanced Analytics
+Business Intelligence and Data Visualization
+Operations and Supply Chain Optimization
+Product and Program Management
 
-## 💼 Experience Highlights
-
-### Co-Founder & Operations Manager — GuddadaSiri Homestay (Nov 2017 – Present)
-
-- Co-founded and scaled a boutique homestay in Hassan, Karnataka serving 1,000+ guests annually  
-- Applied **data analytics on occupancy trends & seasonal demand** to optimize pricing, increasing revenue by **~25%**  
-- Built digital booking, check-in, and feedback systems, cutting operational errors by **~30%**  
-- Ran **social media and digital marketing campaigns**, driving **20% YoY growth** in online bookings  
-- Led vendor negotiations and supply chain optimization, reducing procurement costs by **15%**
-
-### Systems Engineer — Infosys (Vanguard client) (Nov 2021 – Apr 2024)
-
-- Supported **digital transformation** and back-office process improvement for a major financial services client  
-- Processed, cleaned, and analyzed **large-scale financial datasets** using SQL, ETL, and Advanced Excel  
-- Built and optimized **ad-hoc reports and dashboards**, enabling faster business decision-making  
-- Collaborated with Business Analysts and cross-functional teams to translate business requirements into  
-  technical solutions and reporting
+I am particularly interested in roles where analytics and technology can improve operational efficiency, customer experience, and strategic decision making across industries such as hospitality, travel, financial services, and technology platforms.
 
 ---
 
-## 🛠️ Skills
+# Education
 
-**Data & Analytics:**  
-- SQL, Python (NumPy, Pandas, Scikit-learn, Matplotlib), R  
-- Excel (Advanced), Power BI, Cognos, Data Cleaning, EDA, Visualization, Forecasting, A/B Testing  
+University of Miami Herbert Business School
+Master of Business Administration (STEM)
+August 2025 – May 2027
 
-**Business & Product:**  
-- Business Requirements Gathering, Stakeholder Management  
-- Process Mapping, KPI Definition & Reporting  
-- Program / Product Management fundamentals  
+Relevant coursework includes:
 
-**Tools:**  
-- Jupyter, Git/GitHub, MS Office, PowerPoint, MS Excel, Power BI, Cognos  
-
-**Languages:**  
-- English, Kannada (fluent); Hindi (conversational)
-
----
-
-## 📂 Featured Projects
-
-> These are selected from my GitHub repositories. More details and code are available in each repo.
-
-### 1️⃣ R and Tidyverse Programming Capstone  
-**Repo:** [R-and-Tidyverse-Programming-Capstone](https://github.com/SampadaDd/R-and-Tidyverse-Programming-Capstone)  
-
-A capstone project using **R and the Tidyverse ecosystem** for data wrangling, transformation, and exploratory analysis.
-
-- Cleaned and transformed raw data using `dplyr`, `tidyr`, and related packages  
-- Performed EDA to uncover trends and patterns  
-- Built clear visualizations to communicate insights to non-technical stakeholders  
-
-**Tech:** R, Tidyverse, ggplot2  
+Business Analytics
+Corporate Finance
+Strategic Management
+Marketing Analytics
+Data Visualization for Business
+Product and Program Management
+Management Consulting
 
 ---
 
-### 2️⃣ Excel & Cognos Reporting for Business Dashboards  
-**Repo:** [MS-Excel-and-Cognos](https://github.com/SampadaDd/MS-Excel-and-Cognos)  
+Manipal Academy of Higher Education
+Master of Science in Data Science
+April 2023 – May 2025
 
-A collection of **Excel-based analytics** and **Cognos visualizations** to demonstrate dashboarding skills.
+Core areas of study:
 
-- Created interactive Excel dashboards for KPIs and business reporting  
-- Built Cognos visualizations to highlight trends and comparative metrics  
-- Focus on readability and decision support for business managers  
-
-**Tech:** MS Excel (Advanced), IBM Cognos  
-
----
-
-### 3️⃣ Data Visualization using Python  
-**Repo:** [Data-Visualization-using-Python](https://github.com/SampadaDd/Data-Visualization-using-Python)  
-
-Visual storytelling with Python, focusing on turning raw datasets into intuitive charts and graphs.
-
-- Used Python plotting libraries to build line charts, bar charts, and other visuals  
-- Emphasis on chart design (labels, legends, color, and clarity)  
-- Demonstrates how I move from raw data → visual insight  
-
-**Tech:** Python, Matplotlib / Plotly / Dash (as applicable)
+Statistical Modeling
+SQL and Database Systems
+Python and R Programming
+Natural Language Processing
+Hypothesis Testing
+Business Analytics
 
 ---
 
-### 4️⃣ Mini Projects on Data Analysis  
-**Repo:** [Mini-projects-on-data-analysis](https://github.com/SampadaDd/Mini-projects-on-data-analysis)  
-
-A series of smaller analytics projects, each focusing on a different technique or domain.
-
-- Data cleaning and transformation  
-- Exploratory data analysis (EDA)  
-- Basic hypothesis testing and descriptive statistics  
-
-**Tech:** Python, Jupyter Notebook, Pandas  
+JSS Academy of Technical Education, Bangalore
+Bachelor of Engineering in Electronics and Communication
+August 2017 – August 2021
 
 ---
 
-### 5️⃣ Real-world SQL + Python Analytics  
-**Repo:** [Sample-SQL-Python-project](https://github.com/SampadaDd/Sample-SQL-Python-project)  
+# Professional Experience
 
-End-to-end analysis of a **real-world dataset** using SQL and Python.
+## Co-Founder and Operations Manager
 
-- Wrote SQL queries to filter, join, and aggregate large tables  
-- Pulled results into Python for further analysis and visualization  
-- Demonstrates a full workflow from **database → analysis → insight**  
+GuddadaSiri Homestay
+Hassan, Karnataka, India
+November 2017 – Present
 
-**Tech:** SQL, Python, Jupyter, Pandas  
+Co-founded and scaled a boutique hospitality business serving more than 1,000 guests annually.
 
----
+Key contributions include:
 
-### 6️⃣ Web Scraping & Python Automation  
-**Repo:** [IBMPython-Project](https://github.com/SampadaDd/IBMPython-Project)  
+Analyzed seasonal demand patterns and occupancy trends to develop pricing strategies that increased revenue by approximately 25 percent.
 
-A Python project focused on **web scraping and data collection**.
+Designed and implemented digital booking, guest check-in, and feedback systems that reduced operational errors by approximately 30 percent.
 
-- Used `requests` and `BeautifulSoup` to scrape data from the web  
-- Cleaned and structured scraped data using Pandas  
-- Prepared datasets for downstream analysis and reporting  
+Led digital marketing campaigns and online platform optimization, increasing annual online bookings by approximately 20 percent.
 
-**Tech:** Python, Pandas, BeautifulSoup  
+Optimized vendor procurement processes and supply management, reducing operating costs by approximately 15 percent.
 
 ---
 
-### 7️⃣ Driver Anti-Sleep Device (IoT / Hardware Project)  
-**Repo:** [Driver-Antisleep-device](https://github.com/SampadaDd/Driver-Antisleep-device)  
+## Systems Engineer
 
-An electronics-based project built to **detect driver drowsiness** and trigger alerts.
+Infosys (Client: Vanguard)
+November 2021 – April 2024
 
-- Designed a system using sensors, microcontroller, relay, and buzzer  
-- Detects head tilt / drowsy behavior and alerts the driver  
-- Bridges my **electronics** background with **real-world safety applications**  
+Worked on enterprise financial services technology and data operations for a global investment management client.
 
-**Tech:** Microcontroller, Sensors, Embedded Systems  
+Key responsibilities included:
+
+Processing and analyzing large financial datasets using SQL, ETL workflows, and advanced Excel.
+
+Developing operational reports and dashboards used by internal teams for business monitoring and decision support.
+
+Collaborating with cross-functional teams including business analysts and operations stakeholders to translate business requirements into reporting and technical solutions.
+
+Supporting digital transformation initiatives focused on operational efficiency and process improvement.
 
 ---
 
-## 📈 What I’m Looking For
+# Technical Skills
 
-- Data Analyst / Business Analyst roles  
-- Data Science & Analytics roles (especially in **hospitality, travel, financial services**)  
-- Product / Program roles that value **data-driven decision making**  
-- Opportunities where I can combine **MBA + Data Science + Operations** to drive impact
+## Artificial Intelligence and Data Science
 
-If my profile aligns with your team or project, I’d love to connect.
+Python
+Machine Learning Fundamentals
+Natural Language Processing
+Statistical Modeling
+Data Cleaning and Feature Engineering
 
-📧 Email: **sxd1666@miami.edu**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sampada-dd-5384741b3) · [GitHub](https://github.com/SampadaDd)
+Libraries and Tools
+
+NumPy
+Pandas
+Scikit-learn
+Matplotlib
+Jupyter Notebook
+
+---
+
+## Business Intelligence and Analytics
+
+SQL
+Power BI
+Advanced Excel
+IBM Cognos
+Data Visualization
+Exploratory Data Analysis
+KPI Reporting and Business Dashboards
+
+---
+
+## Business and Product Skills
+
+Business Requirements Analysis
+Stakeholder Communication
+Product and Program Management Foundations
+Process Mapping and Optimization
+Operations Analytics
+Supply Chain Decision Support
+
+---
+
+# Selected Projects
+
+The following projects demonstrate my work across artificial intelligence, analytics, and operational decision support.
+
+---
+
+## AI Research Agent using n8n
+
+Repository
+[https://github.com/SampadaDd/ai-research-agent-n8n](https://github.com/SampadaDd/ai-research-agent-n8n)
+
+This project demonstrates how to build an automated AI research assistant using workflow automation.
+
+The system integrates:
+
+n8n workflow automation
+OpenAI language models
+DuckDuckGo API for web search
+
+The AI agent automatically searches the web, retrieves relevant information, and summarizes the results for the user.
+
+Key components include:
+
+AI agent orchestration
+External API integration
+Prompt engineering
+Automated research workflows
+
+Technologies used
+
+n8n
+OpenAI API
+DuckDuckGo API
+JSON APIs
+
+---
+
+## Norwegian Cruise Line Guest Experience Analytics
+
+Repository
+[https://github.com/SampadaDd/ncl-guest-experience-analytics](https://github.com/SampadaDd/ncl-guest-experience-analytics)
+
+This project applies Natural Language Processing to analyze guest feedback from Norwegian Cruise Line.
+
+The objective is to understand customer satisfaction drivers and operational insights in the hospitality and cruise industry.
+
+Key steps include
+
+Cleaning and preprocessing textual guest feedback
+Sentiment classification
+Theme identification across reviews
+Visualization of customer experience patterns
+
+Technologies used
+
+Python
+Natural Language Processing
+Pandas
+Jupyter Notebook
+
+---
+
+## R and Tidyverse Programming Capstone
+
+Repository
+[https://github.com/SampadaDd/R-and-Tidyverse-Programming-Capstone](https://github.com/SampadaDd/R-and-Tidyverse-Programming-Capstone)
+
+A data analysis project using the R programming language and the Tidyverse ecosystem.
+
+Work includes
+
+Data transformation and cleaning
+Exploratory data analysis
+Statistical summaries
+Clear data visualization
+
+Technologies used
+
+R
+Tidyverse
+ggplot2
+
+---
+
+## Business Intelligence Dashboards using Excel and Cognos
+
+Repository
+[https://github.com/SampadaDd/MS-Excel-and-Cognos](https://github.com/SampadaDd/MS-Excel-and-Cognos)
+
+A collection of business reporting dashboards created using Excel and Cognos.
+
+Work includes
+
+Interactive KPI dashboards
+Performance reporting visualizations
+Business monitoring tools for managers
+
+Technologies used
+
+Microsoft Excel
+IBM Cognos
+
+---
+
+## Data Visualization using Python
+
+Repository
+[https://github.com/SampadaDd/Data-Visualization-using-Python](https://github.com/SampadaDd/Data-Visualization-using-Python)
+
+A project focused on visual storytelling and communication of insights through data visualization.
+
+Work includes
+
+Designing charts and visualizations for business insights
+Transforming raw datasets into meaningful visual narratives
+Applying best practices in chart design and readability
+
+Technologies used
+
+Python
+Matplotlib
+Plotly
+
+---
+
+## SQL and Python Data Analytics Workflow
+
+Repository
+[https://github.com/SampadaDd/Sample-SQL-Python-project](https://github.com/SampadaDd/Sample-SQL-Python-project)
+
+An end-to-end analytics workflow combining SQL data extraction with Python analysis.
+
+Work includes
+
+SQL queries for data aggregation and filtering
+Importing database results into Python
+Exploratory analysis and visual insights
+
+Technologies used
+
+SQL
+Python
+Pandas
+Jupyter Notebook
+
+---
+
+## Web Scraping and Data Collection using Python
+
+Repository
+[https://github.com/SampadaDd/IBMPython-Project](https://github.com/SampadaDd/IBMPython-Project)
+
+A project demonstrating automated web data collection.
+
+Work includes
+
+Extracting web content using requests and BeautifulSoup
+Structuring and cleaning data
+Preparing datasets for analysis
+
+Technologies used
+
+Python
+BeautifulSoup
+Pandas
+
+---
+
+## Driver Drowsiness Detection Device
+
+Repository
+[https://github.com/SampadaDd/Driver-Antisleep-device](https://github.com/SampadaDd/Driver-Antisleep-device)
+
+An embedded systems project designed to detect driver drowsiness and trigger alerts.
+
+The system uses sensors and microcontroller logic to detect head movement patterns associated with fatigue and activate warning signals.
+
+Technologies used
+
+Embedded Systems
+Microcontrollers
+Sensor Integration
+
+---
+
+# Career Interests
+
+I am currently seeking opportunities in the following areas:
+
+Artificial Intelligence Engineering
+Data Science and Advanced Analytics
+Business Intelligence and Data Analytics
+Operations and Supply Chain Analytics
+Product Management and Technical Product Roles
+
+I am particularly interested in organizations that leverage data and technology to improve operations, customer experience, and strategic decision making.
+
+---
+
+# Contact
+
+Email
+[sxd1666@miami.edu](mailto:sxd1666@miami.edu)
+
+LinkedIn
+[https://www.linkedin.com/in/sampada-dd-5384741b3](https://www.linkedin.com/in/sampada-dd-5384741b3)
+
+GitHub
+[https://github.com/SampadaDd](https://github.com/SampadaDd)
+
+---
