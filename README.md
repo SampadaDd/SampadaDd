@@ -155,8 +155,29 @@ Supply Chain Decision Support
 ---
 
 # Selected Projects
-
 The following projects demonstrate my work across artificial intelligence, analytics, and operational decision support.
+
+---
+Norwegian Cruise Line Profit Optimization Model  
+Repository https://github.com/SampadaDd/ncl-profit-optimization-model  
+
+This project applies optimization techniques to improve revenue management decisions for Norwegian Cruise Line.  
+
+The objective is to maximize profit by optimizing fare-class allocation and controlled overbooking under demand uncertainty in the cruise industry.  
+
+Key steps include  
+
+Data structuring across sailings cabin types and fare classes  
+Model formulation using Mixed Integer Linear Programming  
+Optimization of pricing and booking decisions  
+Incorporating no-show rates for overbooking control  
+Analyzing revenue profit and compensation trade-offs  
+
+Technologies used  
+
+Excel Solver  
+Optimization Modeling (MILP)  
+Data Analysis  
 
 ---
 
